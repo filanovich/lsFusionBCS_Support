@@ -13,7 +13,7 @@
 | `item`    | array of `Item`  | Список товаров         |
 | `order`   | array of `Order` | Список заказов         |
 | `batch`   | array of `Batch` | Список партий          |
-| `lots`    | array of `Lot`   | Список марок           |
+| `lot`    | array of `Lot`   | Список марок           |
 
 
 Пример JSON-файла справочной информации
